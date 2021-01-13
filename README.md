@@ -4,4 +4,4 @@ The problem was to find the shortest mathematical expression containing an ascen
 
 ## The Result
 
-The shortest solution found: (1+2)!! + (3!)^4 + 5 = 2021.
+The shortest solution found is: (1+2)!! + (3!)^4 + 5 = 2021.
