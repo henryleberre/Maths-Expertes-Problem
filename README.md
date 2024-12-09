@@ -1,6 +1,8 @@
-# Math Expertes Problem
+# shortexpr
 
-The problem was to find the shortest mathematical expression containing an ascending sequence of natural numbers that is equal to 2021. By using reverse polish notation and bit encoding, I was able to search through all of the possible expressions (though there is a limit on factorials): multi-threading did help.
+The problem was to find the shortest mathematical expression (determined by its digit count) containing an ascending sequence of natural numbers (starting at 1) that is equal to 2021. Polish notation and bit encoding, and multi-threading were used to search through the entire problem space (with sane limits on factorials).
+
+I was given this problem in high school advanced math class, as the year was turning to 2021. I wanted to find the shortest expression possible and show - given some constraints - that it was the shortest.
 
 ## The Result
 
